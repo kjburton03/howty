@@ -1,0 +1,32 @@
+[
+    {
+        "model": "rockapi.item",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "location": 3,
+            "name": "private event signs",
+            "amount": 2
+        }
+    },
+    {
+        "model": "rockapi.item",
+        "pk": 2,
+        "fields": {
+            "user": 1,
+            "location": 1,
+            "name": "high boys",
+            "amount": 2
+        }
+    },
+    {
+        "model": "rockapi.item",
+        "pk": 3,
+        "fields": {
+            "user": 1,
+            "location": 5,
+            "name": "cross back chairs",
+            "amount": 23
+        }
+    }
+]
